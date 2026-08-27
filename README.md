@@ -10,3 +10,21 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
+
+I'm a frontend development student with a passion for building
+clean, responsive and user-friendly web experiences.
+
+I'm currently looking for an internship where I can improve my
+frontend skills, contribute to real-world projects, and learn
+from other experienced developers.
+
+### 🌱 My goal
+
+I'm looking forward to getting hands-on experience in a professional
+development team and continuing to grow as a frontend developer.
+
+### 📫 Get in touch
+
+- LinkedIn: 
+- Portfolio: 
+- Email: rahbekjim@hotmail.com
